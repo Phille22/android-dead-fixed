@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Bug App</string>
+    <string name="number">0</string>
+    <string name="btnadd">add</string>
+    <string name="btnTake">take</string>
+    <string name="btnGrow">grow</string>
+    <string name="btnHide">hide</string>
+    <string name="btnShrink">shrink</string>
+    <string name="btnReset">reset</string>
+    <string name="btnHideSetTextHide">SHOW</string>
 </resources>
